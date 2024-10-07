@@ -2,59 +2,59 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30021.99
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Common", "DevMagicMemesWebApi.Common\DevMagicMemesWebApi.Common.csproj", "{ffd1693f-a332-4235-b5e6-2b4af608ce55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Common", "DevMagicMemesWebApi.Common\DevMagicMemesWebApi.Common.csproj", "{837fff2c-c876-49a8-b81d-d08dff908b9e}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Contracts", "DevMagicMemesWebApi.Contracts\DevMagicMemesWebApi.Contracts.csproj", "{4f6bdb94-964c-4609-bc30-05355b61d806}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Contracts", "DevMagicMemesWebApi.Contracts\DevMagicMemesWebApi.Contracts.csproj", "{11d3d1e5-0cb1-44e3-bf96-b0fc11475ac3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Dal", "DevMagicMemesWebApi.Dal\DevMagicMemesWebApi.Dal.csproj", "{2aebcdc9-cd5b-485c-9652-a638b796df7e}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Dal", "DevMagicMemesWebApi.Dal\DevMagicMemesWebApi.Dal.csproj", "{abd747fc-1006-43af-8619-67443afb5fca}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Services", "DevMagicMemesWebApi.Services\DevMagicMemesWebApi.Services.csproj", "{d0ec8ace-0298-4b64-aaa4-e092c05c64bb}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Services", "DevMagicMemesWebApi.Services\DevMagicMemesWebApi.Services.csproj", "{d2177598-a1b0-4c86-8e7b-75d553879149}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Controllers", "DevMagicMemesWebApi.Controllers\DevMagicMemesWebApi.Controllers.csproj", "{0cada114-329a-49b9-925d-608b7ae21ec9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Controllers", "DevMagicMemesWebApi.Controllers\DevMagicMemesWebApi.Controllers.csproj", "{7de2ffcb-b3b5-4f98-aeff-f1e665649fb6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Identity", "DevMagicMemesWebApi.Identity\DevMagicMemesWebApi.Identity.csproj", "{90b6d60a-a194-4034-9455-b0f8b3fd7e21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Identity", "DevMagicMemesWebApi.Identity\DevMagicMemesWebApi.Identity.csproj", "{d53c6ad0-2f85-442b-ae8f-93b1dc280fef}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Vue", "DevMagicMemesWebApi.Vue\DevMagicMemesWebApi.Vue.csproj", "{4726aa18-305f-4da4-bc7d-7f9c89a33128}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Vue", "DevMagicMemesWebApi.Vue\DevMagicMemesWebApi.Vue.csproj", "{ad14c72b-cd6c-49d1-92a8-b74fda50f1e4}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6b280c6e-874e-46f2-b644-c8834a4f1226}
+		SolutionGuid = {31715f0f-77c2-4a88-86b0-9ae811cd6ef2}
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ffd1693f-a332-4235-b5e6-2b4af608ce55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ffd1693f-a332-4235-b5e6-2b4af608ce55}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ffd1693f-a332-4235-b5e6-2b4af608ce55}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ffd1693f-a332-4235-b5e6-2b4af608ce55}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4f6bdb94-964c-4609-bc30-05355b61d806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4f6bdb94-964c-4609-bc30-05355b61d806}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4f6bdb94-964c-4609-bc30-05355b61d806}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4f6bdb94-964c-4609-bc30-05355b61d806}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2aebcdc9-cd5b-485c-9652-a638b796df7e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2aebcdc9-cd5b-485c-9652-a638b796df7e}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2aebcdc9-cd5b-485c-9652-a638b796df7e}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2aebcdc9-cd5b-485c-9652-a638b796df7e}.Release|Any CPU.Build.0 = Release|Any CPU
-		{d0ec8ace-0298-4b64-aaa4-e092c05c64bb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{d0ec8ace-0298-4b64-aaa4-e092c05c64bb}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{d0ec8ace-0298-4b64-aaa4-e092c05c64bb}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{d0ec8ace-0298-4b64-aaa4-e092c05c64bb}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0cada114-329a-49b9-925d-608b7ae21ec9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0cada114-329a-49b9-925d-608b7ae21ec9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0cada114-329a-49b9-925d-608b7ae21ec9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0cada114-329a-49b9-925d-608b7ae21ec9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{90b6d60a-a194-4034-9455-b0f8b3fd7e21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90b6d60a-a194-4034-9455-b0f8b3fd7e21}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90b6d60a-a194-4034-9455-b0f8b3fd7e21}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90b6d60a-a194-4034-9455-b0f8b3fd7e21}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4726aa18-305f-4da4-bc7d-7f9c89a33128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4726aa18-305f-4da4-bc7d-7f9c89a33128}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4726aa18-305f-4da4-bc7d-7f9c89a33128}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4726aa18-305f-4da4-bc7d-7f9c89a33128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837fff2c-c876-49a8-b81d-d08dff908b9e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837fff2c-c876-49a8-b81d-d08dff908b9e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837fff2c-c876-49a8-b81d-d08dff908b9e}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837fff2c-c876-49a8-b81d-d08dff908b9e}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11d3d1e5-0cb1-44e3-bf96-b0fc11475ac3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11d3d1e5-0cb1-44e3-bf96-b0fc11475ac3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11d3d1e5-0cb1-44e3-bf96-b0fc11475ac3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11d3d1e5-0cb1-44e3-bf96-b0fc11475ac3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{abd747fc-1006-43af-8619-67443afb5fca}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{abd747fc-1006-43af-8619-67443afb5fca}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{abd747fc-1006-43af-8619-67443afb5fca}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{abd747fc-1006-43af-8619-67443afb5fca}.Release|Any CPU.Build.0 = Release|Any CPU
+		{d2177598-a1b0-4c86-8e7b-75d553879149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d2177598-a1b0-4c86-8e7b-75d553879149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d2177598-a1b0-4c86-8e7b-75d553879149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{d2177598-a1b0-4c86-8e7b-75d553879149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7de2ffcb-b3b5-4f98-aeff-f1e665649fb6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7de2ffcb-b3b5-4f98-aeff-f1e665649fb6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7de2ffcb-b3b5-4f98-aeff-f1e665649fb6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7de2ffcb-b3b5-4f98-aeff-f1e665649fb6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{d53c6ad0-2f85-442b-ae8f-93b1dc280fef}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d53c6ad0-2f85-442b-ae8f-93b1dc280fef}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d53c6ad0-2f85-442b-ae8f-93b1dc280fef}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{d53c6ad0-2f85-442b-ae8f-93b1dc280fef}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ad14c72b-cd6c-49d1-92a8-b74fda50f1e4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ad14c72b-cd6c-49d1-92a8-b74fda50f1e4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ad14c72b-cd6c-49d1-92a8-b74fda50f1e4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ad14c72b-cd6c-49d1-92a8-b74fda50f1e4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

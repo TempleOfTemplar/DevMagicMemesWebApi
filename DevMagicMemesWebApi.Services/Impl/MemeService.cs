@@ -76,5 +76,29 @@ namespace DevMagicMemesWebApi.Services
 
             return result;
         }
+
+        public async virtual Task<IEnumerable<Meme>> GetListWithTagsAsync(
+            Meme.GetListWithTags getListWithTags, CancellationToken cancellationToken = default)
+        {
+            var expression = getListWithTags.ToExpression(true);
+
+            var result = await _repository.GetListAsync(expression, cancellationToken);
+
+            return result;
+        }
+
+        public async virtual Task<PagedResult<Meme>> GetPageWithTagsAsync(
+            PageParameter<Meme.GetListWithTags> parameter, CancellationToken cancellationToken = default)
+        {
+            var result = new PagedResult<Meme>();
+
+            var expression = parameter.Filter.ToExpression(true);
+
+            result.Data = await _repository.GetListAsync(expression, parameter, cancellationToken);
+
+            result.Total = await _repository.CountAsync(expression, cancellationToken);
+
+            return result;
+        }
     }
 }

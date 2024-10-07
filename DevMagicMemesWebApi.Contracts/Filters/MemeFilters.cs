@@ -48,5 +48,29 @@ namespace DevMagicMemesWebApi.Contracts
             }
 
         }
+
+        public class GetListWithTags
+        {
+            public Expression<Func<Meme, bool>> ToExpression(bool defaultValue = false)
+            {
+                Expression<Func<Meme, bool>>? expression = null;
+
+
+                expression ??= x => defaultValue;
+
+                return expression;
+            }
+
+            public Expression<Func<Tag, bool>> ToTagExpression(bool defaultValue = false)
+            {
+                Expression<Func<Tag, bool>>? expression = null;
+
+
+                expression ??= x => defaultValue;
+
+                return expression;
+            }
+
+        }
     }
 }

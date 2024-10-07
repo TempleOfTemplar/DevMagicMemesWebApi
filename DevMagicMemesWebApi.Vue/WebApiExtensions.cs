@@ -11,7 +11,6 @@ using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.Filters;
 using System;
 using System.Text.Json.Serialization;
-using Microsoft.Extensions.FileProviders;
 
 namespace Microsoft.AspNetCore.Builder
 {
@@ -80,13 +79,6 @@ namespace Microsoft.AspNetCore.Builder
                 app.UseSwagger();
                 app.UseSwaggerUI();
 
-                app.UseStaticFiles(new StaticFileOptions
-                {
-                    FileProvider = new PhysicalFileProvider(
-                        Path.Combine(app.Environment.ContentRootPath, "Uploads")),
-                    RequestPath = "/Resources"
-                });
-                
                 app.UseCors(options =>
                 {
                     options.AllowAnyHeader();
