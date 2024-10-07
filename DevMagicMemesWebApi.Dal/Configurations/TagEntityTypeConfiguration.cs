@@ -14,6 +14,11 @@ namespace DevMagicMemesWebApi.Dal
                 .HasKey(x => x.Id);
 
             builder
+                .HasIndex(x => x.Title)
+                .IsUnique()
+                .HasDatabaseName("TagTitle");
+
+            builder
                 .HasMany(x => x.Memes)
                 .WithMany(x => x.Tags)
                 .UsingEntity<Tag.MemesMap>(
