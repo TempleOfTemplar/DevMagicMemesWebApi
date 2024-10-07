@@ -1,0 +1,17 @@
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\bin\Debug\net8.0\DevMagicMemesWebApi.Controllers.deps.json
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\bin\Debug\net8.0\DevMagicMemesWebApi.Controllers.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\bin\Debug\net8.0\DevMagicMemesWebApi.Controllers.pdb
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\bin\Debug\net8.0\DevMagicMemesWebApi.Common.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\bin\Debug\net8.0\DevMagicMemesWebApi.Contracts.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\bin\Debug\net8.0\DevMagicMemesWebApi.Contracts.pdb
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\bin\Debug\net8.0\DevMagicMemesWebApi.Common.pdb
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\obj\Debug\net8.0\DevMagicMemesWebApi.Controllers.csproj.AssemblyReference.cache
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\obj\Debug\net8.0\DevMagicMemesWebApi.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\obj\Debug\net8.0\DevMagicMemesWebApi.Controllers.AssemblyInfoInputs.cache
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\obj\Debug\net8.0\DevMagicMemesWebApi.Controllers.AssemblyInfo.cs
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\obj\Debug\net8.0\DevMagicMemesWebApi.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\obj\Debug\net8.0\DevMagic.9994E4F1.Up2Date
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\obj\Debug\net8.0\DevMagicMemesWebApi.Controllers.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\obj\Debug\net8.0\refint\DevMagicMemesWebApi.Controllers.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\obj\Debug\net8.0\DevMagicMemesWebApi.Controllers.pdb
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Controllers\obj\Debug\net8.0\ref\DevMagicMemesWebApi.Controllers.dll

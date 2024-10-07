@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NPb0kUZ0Sc5JStUfhcmoez+QHl9kMLRHZzo+JOYrhpP9znLh1BZjieU8RyCQ8TmocHyW1NqYn48L9nOzW16A7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imbal\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\imbal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

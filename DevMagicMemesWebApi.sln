@@ -1,0 +1,60 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30021.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Common", "DevMagicMemesWebApi.Common\DevMagicMemesWebApi.Common.csproj", "{3ac6317a-6f16-4431-9513-fdc65f3195f7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Contracts", "DevMagicMemesWebApi.Contracts\DevMagicMemesWebApi.Contracts.csproj", "{ab9449bf-0f32-4d68-88ae-7d8a0d9b7807}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Dal", "DevMagicMemesWebApi.Dal\DevMagicMemesWebApi.Dal.csproj", "{01ac2163-b2f2-4dd5-ad79-7e8047c8fe06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Services", "DevMagicMemesWebApi.Services\DevMagicMemesWebApi.Services.csproj", "{70f0752f-0964-43df-89e3-26a4e3398ed1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Controllers", "DevMagicMemesWebApi.Controllers\DevMagicMemesWebApi.Controllers.csproj", "{2f094f5a-4b7b-4084-8919-ed12b53e2224}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Identity", "DevMagicMemesWebApi.Identity\DevMagicMemesWebApi.Identity.csproj", "{0890ca3b-93fa-4d32-9ac2-7b8e2b4deb4a}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMagicMemesWebApi.Vue", "DevMagicMemesWebApi.Vue\DevMagicMemesWebApi.Vue.csproj", "{4ac82e63-193d-4630-8a89-120d7d88b3d0}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49c8cf57-cd7a-4ab1-a81d-f6996018e688}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ac6317a-6f16-4431-9513-fdc65f3195f7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ac6317a-6f16-4431-9513-fdc65f3195f7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ac6317a-6f16-4431-9513-fdc65f3195f7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ac6317a-6f16-4431-9513-fdc65f3195f7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ab9449bf-0f32-4d68-88ae-7d8a0d9b7807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ab9449bf-0f32-4d68-88ae-7d8a0d9b7807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ab9449bf-0f32-4d68-88ae-7d8a0d9b7807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ab9449bf-0f32-4d68-88ae-7d8a0d9b7807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01ac2163-b2f2-4dd5-ad79-7e8047c8fe06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01ac2163-b2f2-4dd5-ad79-7e8047c8fe06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01ac2163-b2f2-4dd5-ad79-7e8047c8fe06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01ac2163-b2f2-4dd5-ad79-7e8047c8fe06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70f0752f-0964-43df-89e3-26a4e3398ed1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70f0752f-0964-43df-89e3-26a4e3398ed1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70f0752f-0964-43df-89e3-26a4e3398ed1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70f0752f-0964-43df-89e3-26a4e3398ed1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2f094f5a-4b7b-4084-8919-ed12b53e2224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2f094f5a-4b7b-4084-8919-ed12b53e2224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2f094f5a-4b7b-4084-8919-ed12b53e2224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2f094f5a-4b7b-4084-8919-ed12b53e2224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0890ca3b-93fa-4d32-9ac2-7b8e2b4deb4a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0890ca3b-93fa-4d32-9ac2-7b8e2b4deb4a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0890ca3b-93fa-4d32-9ac2-7b8e2b4deb4a}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0890ca3b-93fa-4d32-9ac2-7b8e2b4deb4a}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ac82e63-193d-4630-8a89-120d7d88b3d0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ac82e63-193d-4630-8a89-120d7d88b3d0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ac82e63-193d-4630-8a89-120d7d88b3d0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ac82e63-193d-4630-8a89-120d7d88b3d0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

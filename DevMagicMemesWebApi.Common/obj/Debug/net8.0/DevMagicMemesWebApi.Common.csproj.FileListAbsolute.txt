@@ -1,0 +1,12 @@
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Common\bin\Debug\net8.0\DevMagicMemesWebApi.Common.deps.json
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Common\bin\Debug\net8.0\DevMagicMemesWebApi.Common.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Common\bin\Debug\net8.0\DevMagicMemesWebApi.Common.pdb
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Common\obj\Debug\net8.0\DevMagicMemesWebApi.Common.csproj.AssemblyReference.cache
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Common\obj\Debug\net8.0\DevMagicMemesWebApi.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Common\obj\Debug\net8.0\DevMagicMemesWebApi.Common.AssemblyInfoInputs.cache
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Common\obj\Debug\net8.0\DevMagicMemesWebApi.Common.AssemblyInfo.cs
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Common\obj\Debug\net8.0\DevMagicMemesWebApi.Common.csproj.CoreCompileInputs.cache
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Common\obj\Debug\net8.0\DevMagicMemesWebApi.Common.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Common\obj\Debug\net8.0\refint\DevMagicMemesWebApi.Common.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Common\obj\Debug\net8.0\DevMagicMemesWebApi.Common.pdb
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Common\obj\Debug\net8.0\ref\DevMagicMemesWebApi.Common.dll

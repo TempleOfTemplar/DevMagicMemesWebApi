@@ -1,0 +1,507 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Vue\\DevMagicMemesWebApi.Vue.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj",
+        "projectName": "DevMagicMemesWebApi.Common",
+        "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj",
+        "packagesPath": "C:\\Users\\imbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj",
+        "projectName": "DevMagicMemesWebApi.Contracts",
+        "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj",
+        "packagesPath": "C:\\Users\\imbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj": {
+                "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj",
+        "projectName": "DevMagicMemesWebApi.Controllers",
+        "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj",
+        "packagesPath": "C:\\Users\\imbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Controllers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj": {
+                "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Dal\\DevMagicMemesWebApi.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Dal\\DevMagicMemesWebApi.Dal.csproj",
+        "projectName": "DevMagicMemesWebApi.Dal",
+        "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Dal\\DevMagicMemesWebApi.Dal.csproj",
+        "packagesPath": "C:\\Users\\imbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj": {
+                "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Identity\\DevMagicMemesWebApi.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Identity\\DevMagicMemesWebApi.Identity.csproj",
+        "projectName": "DevMagicMemesWebApi.Identity",
+        "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Identity\\DevMagicMemesWebApi.Identity.csproj",
+        "packagesPath": "C:\\Users\\imbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj": {
+                "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj",
+        "projectName": "DevMagicMemesWebApi.Services",
+        "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj",
+        "packagesPath": "C:\\Users\\imbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj": {
+                "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0-rc.1.24431.7, )"
+            },
+            "OllamaSharp": {
+              "target": "Package",
+              "version": "[3.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Vue\\DevMagicMemesWebApi.Vue.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Vue\\DevMagicMemesWebApi.Vue.csproj",
+        "projectName": "DevMagicMemesWebApi.Vue",
+        "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Vue\\DevMagicMemesWebApi.Vue.csproj",
+        "packagesPath": "C:\\Users\\imbal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Vue\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imbal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj": {
+                "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj"
+              },
+              "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Dal\\DevMagicMemesWebApi.Dal.csproj": {
+                "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Dal\\DevMagicMemesWebApi.Dal.csproj"
+              },
+              "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Identity\\DevMagicMemesWebApi.Identity.csproj": {
+                "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Identity\\DevMagicMemesWebApi.Identity.csproj"
+              },
+              "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj": {
+                "projectPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

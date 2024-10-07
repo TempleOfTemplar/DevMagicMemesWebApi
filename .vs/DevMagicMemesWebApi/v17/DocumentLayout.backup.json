@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F094F5A-4B7B-4084-8919-ED12B53E2224}|DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.controllers\\controllers\\memescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F094F5A-4B7B-4084-8919-ED12B53E2224}|DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj|solutionrelative:devmagicmemeswebapi.controllers\\controllers\\memescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F0752F-0964-43DF-89E3-26A4E3398ED1}|DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.services\\impl\\entityservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F0752F-0964-43DF-89E3-26A4E3398ED1}|DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj|solutionrelative:devmagicmemeswebapi.services\\impl\\entityservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F0752F-0964-43DF-89E3-26A4E3398ED1}|DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.services\\impl\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F0752F-0964-43DF-89E3-26A4E3398ED1}|DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj|solutionrelative:devmagicmemeswebapi.services\\impl\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC6317A-6F16-4431-9513-FDC65F3195F7}|DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.common\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC6317A-6F16-4431-9513-FDC65F3195F7}|DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj|solutionrelative:devmagicmemeswebapi.common\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F0752F-0964-43DF-89E3-26A4E3398ED1}|DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.services\\impl\\fileservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F0752F-0964-43DF-89E3-26A4E3398ED1}|DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj|solutionrelative:devmagicmemeswebapi.services\\impl\\fileservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AC2163-B2F2-4DD5-AD79-7E8047C8FE06}|DevMagicMemesWebApi.Dal\\DevMagicMemesWebApi.Dal.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AC2163-B2F2-4DD5-AD79-7E8047C8FE06}|DevMagicMemesWebApi.Dal\\DevMagicMemesWebApi.Dal.csproj|solutionrelative:devmagicmemeswebapi.dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F0752F-0964-43DF-89E3-26A4E3398ED1}|DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.services\\impl\\memeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F0752F-0964-43DF-89E3-26A4E3398ED1}|DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj|solutionrelative:devmagicmemeswebapi.services\\impl\\memeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F094F5A-4B7B-4084-8919-ED12B53E2224}|DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.controllers\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F094F5A-4B7B-4084-8919-ED12B53E2224}|DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj|solutionrelative:devmagicmemeswebapi.controllers\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9449BF-0F32-4D68-88AE-7D8A0D9B7807}|DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.contracts\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9449BF-0F32-4D68-88AE-7D8A0D9B7807}|DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj|solutionrelative:devmagicmemeswebapi.contracts\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01AC2163-B2F2-4DD5-AD79-7E8047C8FE06}|DevMagicMemesWebApi.Dal\\DevMagicMemesWebApi.Dal.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.dal\\configurations\\tagentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01AC2163-B2F2-4DD5-AD79-7E8047C8FE06}|DevMagicMemesWebApi.Dal\\DevMagicMemesWebApi.Dal.csproj|solutionrelative:devmagicmemeswebapi.dal\\configurations\\tagentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9449BF-0F32-4D68-88AE-7D8A0D9B7807}|DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.contracts\\ollama\\responsekeywords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9449BF-0F32-4D68-88AE-7D8A0D9B7807}|DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj|solutionrelative:devmagicmemeswebapi.contracts\\ollama\\responsekeywords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F0752F-0964-43DF-89E3-26A4E3398ED1}|DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.services\\devmagicmemeswebapi.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70F0752F-0964-43DF-89E3-26A4E3398ED1}|DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj|solutionrelative:devmagicmemeswebapi.services\\devmagicmemeswebapi.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9449BF-0F32-4D68-88AE-7D8A0D9B7807}|DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.contracts\\devmagicmemeswebapi.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB9449BF-0F32-4D68-88AE-7D8A0D9B7807}|DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj|solutionrelative:devmagicmemeswebapi.contracts\\devmagicmemeswebapi.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC82E63-193D-4630-8A89-120D7D88B3D0}|DevMagicMemesWebApi.Vue\\DevMagicMemesWebApi.Vue.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.vue\\devmagicmemeswebapi.vue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AC82E63-193D-4630-8A89-120D7D88B3D0}|DevMagicMemesWebApi.Vue\\DevMagicMemesWebApi.Vue.csproj|solutionrelative:devmagicmemeswebapi.vue\\devmagicmemeswebapi.vue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC82E63-193D-4630-8A89-120D7D88B3D0}|DevMagicMemesWebApi.Vue\\DevMagicMemesWebApi.Vue.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.vue\\webapiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC82E63-193D-4630-8A89-120D7D88B3D0}|DevMagicMemesWebApi.Vue\\DevMagicMemesWebApi.Vue.csproj|solutionrelative:devmagicmemeswebapi.vue\\webapiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9449BF-0F32-4D68-88AE-7D8A0D9B7807}|DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.contracts\\imemeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB9449BF-0F32-4D68-88AE-7D8A0D9B7807}|DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj|solutionrelative:devmagicmemeswebapi.contracts\\imemeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F094F5A-4B7B-4084-8919-ED12B53E2224}|DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.controllers\\devmagicmemeswebapi.controllers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F094F5A-4B7B-4084-8919-ED12B53E2224}|DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj|solutionrelative:devmagicmemeswebapi.controllers\\devmagicmemeswebapi.controllers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC6317A-6F16-4431-9513-FDC65F3195F7}|DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.common\\devmagicmemeswebapi.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AC6317A-6F16-4431-9513-FDC65F3195F7}|DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj|solutionrelative:devmagicmemeswebapi.common\\devmagicmemeswebapi.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70F0752F-0964-43DF-89E3-26A4E3398ED1}|DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj|c:\\users\\imbal\\source\\repos\\devmagicmemeswebapi\\sourcecode\\devmagicmemeswebapi.services\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F0752F-0964-43DF-89E3-26A4E3398ED1}|DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj|solutionrelative:devmagicmemeswebapi.services\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{1b1f6ac0-5b45-485e-8e6c-a178ec22aa89}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Common\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Common\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Common\\Repository\\IRepository.cs",
+              "RelativeToolTip": "DevMagicMemesWebApi.Common\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:25:22.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Dal\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Dal\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Dal\\Repository\\Repository.cs",
+              "RelativeToolTip": "DevMagicMemesWebApi.Dal\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:23:48.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntityServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\Impl\\EntityServiceBase.cs",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Services\\Impl\\EntityServiceBase.cs",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\Impl\\EntityServiceBase.cs",
+              "RelativeToolTip": "DevMagicMemesWebApi.Services\\Impl\\EntityServiceBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:16:02.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\Impl\\TagService.cs",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Services\\Impl\\TagService.cs",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\Impl\\TagService.cs",
+              "RelativeToolTip": "DevMagicMemesWebApi.Services\\Impl\\TagService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:15:26.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseKeywords.cs",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\Ollama\\ResponseKeywords.cs",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Contracts\\Ollama\\ResponseKeywords.cs",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\Ollama\\ResponseKeywords.cs",
+              "RelativeToolTip": "DevMagicMemesWebApi.Contracts\\Ollama\\ResponseKeywords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:15:59.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DevMagicMemesWebApi.Common.csproj",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj",
+              "RelativeToolTip": "DevMagicMemesWebApi.Common\\DevMagicMemesWebApi.Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T14:31:17.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemeService.cs",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\Impl\\MemeService.cs",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Services\\Impl\\MemeService.cs",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\Impl\\MemeService.cs",
+              "RelativeToolTip": "DevMagicMemesWebApi.Services\\Impl\\MemeService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:30:54.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMemeService.cs",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\IMemeService.cs",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Contracts\\IMemeService.cs",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\IMemeService.cs",
+              "RelativeToolTip": "DevMagicMemesWebApi.Contracts\\IMemeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:30:34.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\IFileService.cs",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Contracts\\IFileService.cs",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\IFileService.cs",
+              "RelativeToolTip": "DevMagicMemesWebApi.Contracts\\IFileService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:30:14.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DevMagicMemesWebApi.Controllers.csproj",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj",
+              "RelativeToolTip": "DevMagicMemesWebApi.Controllers\\DevMagicMemesWebApi.Controllers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T14:29:29.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DevMagicMemesWebApi.Contracts.csproj",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj",
+              "RelativeToolTip": "DevMagicMemesWebApi.Contracts\\DevMagicMemesWebApi.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T14:29:13.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DevMagicMemesWebApi.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj",
+              "RelativeToolTip": "DevMagicMemesWebApi.Services\\DevMagicMemesWebApi.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T14:29:02.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemesController.cs",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Controllers\\Controllers\\MemesController.cs",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Controllers\\Controllers\\MemesController.cs",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Controllers\\Controllers\\MemesController.cs",
+              "RelativeToolTip": "DevMagicMemesWebApi.Controllers\\Controllers\\MemesController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswGgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:28:35.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileServise.cs",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\Impl\\FileServise.cs",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Services\\Impl\\FileServise.cs",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\Impl\\FileServise.cs",
+              "RelativeToolTip": "DevMagicMemesWebApi.Services\\Impl\\FileServise.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwFEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:21:30.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Controllers\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Controllers\\Controllers\\TagsController.cs",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Controllers\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "DevMagicMemesWebApi.Controllers\\Controllers\\TagsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:28:42.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebApiExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Vue\\WebApiExtensions.cs",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Vue\\WebApiExtensions.cs",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Vue\\WebApiExtensions.cs",
+              "RelativeToolTip": "DevMagicMemesWebApi.Vue\\WebApiExtensions.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswF0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:25:54.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TagEntityTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Dal\\Configurations\\TagEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Dal\\Configurations\\TagEntityTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Dal\\Configurations\\TagEntityTypeConfiguration.cs",
+              "RelativeToolTip": "DevMagicMemesWebApi.Dal\\Configurations\\TagEntityTypeConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:33:05.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DevMagicMemesWebApi.Vue.csproj",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Vue\\DevMagicMemesWebApi.Vue.csproj",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Vue\\DevMagicMemesWebApi.Vue.csproj",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Vue\\DevMagicMemesWebApi.Vue.csproj",
+              "RelativeToolTip": "DevMagicMemesWebApi.Vue\\DevMagicMemesWebApi.Vue.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T14:25:53.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "DevMagicMemesWebApi.Services\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\imbal\\source\\repos\\DevMagicMemesWebApi\\SourceCode\\DevMagicMemesWebApi.Services\\ServiceExtensions.cs",
+              "RelativeToolTip": "DevMagicMemesWebApi.Services\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:25:17.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

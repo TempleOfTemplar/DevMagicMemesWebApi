@@ -1,0 +1,15 @@
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\bin\Debug\net8.0\DevMagicMemesWebApi.Contracts.deps.json
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\bin\Debug\net8.0\DevMagicMemesWebApi.Contracts.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\bin\Debug\net8.0\DevMagicMemesWebApi.Contracts.pdb
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\bin\Debug\net8.0\DevMagicMemesWebApi.Common.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\bin\Debug\net8.0\DevMagicMemesWebApi.Common.pdb
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\obj\Debug\net8.0\DevMagicMemesWebApi.Contracts.csproj.AssemblyReference.cache
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\obj\Debug\net8.0\DevMagicMemesWebApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\obj\Debug\net8.0\DevMagicMemesWebApi.Contracts.AssemblyInfoInputs.cache
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\obj\Debug\net8.0\DevMagicMemesWebApi.Contracts.AssemblyInfo.cs
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\obj\Debug\net8.0\DevMagicMemesWebApi.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\obj\Debug\net8.0\DevMagic.C87F60A3.Up2Date
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\obj\Debug\net8.0\DevMagicMemesWebApi.Contracts.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\obj\Debug\net8.0\refint\DevMagicMemesWebApi.Contracts.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\obj\Debug\net8.0\DevMagicMemesWebApi.Contracts.pdb
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\obj\Debug\net8.0\ref\DevMagicMemesWebApi.Contracts.dll

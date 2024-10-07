@@ -1,0 +1,17 @@
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\bin\Debug\net8.0\DevMagicMemesWebApi.Dal.deps.json
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\bin\Debug\net8.0\DevMagicMemesWebApi.Dal.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\bin\Debug\net8.0\DevMagicMemesWebApi.Dal.pdb
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\bin\Debug\net8.0\DevMagicMemesWebApi.Common.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\bin\Debug\net8.0\DevMagicMemesWebApi.Contracts.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\bin\Debug\net8.0\DevMagicMemesWebApi.Contracts.pdb
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\bin\Debug\net8.0\DevMagicMemesWebApi.Common.pdb
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\obj\Debug\net8.0\DevMagicMemesWebApi.Dal.csproj.AssemblyReference.cache
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\obj\Debug\net8.0\DevMagicMemesWebApi.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\obj\Debug\net8.0\DevMagicMemesWebApi.Dal.AssemblyInfoInputs.cache
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\obj\Debug\net8.0\DevMagicMemesWebApi.Dal.AssemblyInfo.cs
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\obj\Debug\net8.0\DevMagicMemesWebApi.Dal.csproj.CoreCompileInputs.cache
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\obj\Debug\net8.0\DevMagic.47553907.Up2Date
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\obj\Debug\net8.0\DevMagicMemesWebApi.Dal.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\obj\Debug\net8.0\refint\DevMagicMemesWebApi.Dal.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\obj\Debug\net8.0\DevMagicMemesWebApi.Dal.pdb
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\obj\Debug\net8.0\ref\DevMagicMemesWebApi.Dal.dll
