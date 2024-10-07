@@ -81,34 +81,7 @@ namespace DevMagicMemesWebApi.Controllers
         {
             return _service.SearchByTagsIdsAsync(withTagsIdsFilter, HttpContext.RequestAborted);
         }
-
-        /// <summary>
-        /// Get list data by filter.
-        /// </summary>
-        /// <returns></returns>
-        [HttpGet("GetListWithTags")]
-        public Task<IEnumerable<Meme>> GetListWithTagsAsync()
-        {
-            var getListWithTags = new Meme.GetListWithTags();
-
-            return _service.GetListWithTagsAsync(getListWithTags, HttpContext.RequestAborted);
-        }
-
-        /// <summary>
-        /// Get paged data by filter.
-        /// </summary>
-        /// <param name="page"></param>
-        /// <returns></returns>
-        [HttpGet("GetPageWithTags")]
-        public Task<PagedResult<Meme>> GetPageWithTagsAsync([FromQuery] PageParameter page)
-        {
-            var getListWithTags = new Meme.GetListWithTags();
-
-            var parameter = new PageParameter<Meme.GetListWithTags>(page, getListWithTags);
-
-            return _service.GetPageWithTagsAsync(parameter, HttpContext.RequestAborted);
-        }
-
+        
         [HttpGet("RunTagging")]
         public async Task<bool> RunTagging()
         {

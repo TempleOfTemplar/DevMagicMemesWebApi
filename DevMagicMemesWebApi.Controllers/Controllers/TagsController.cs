@@ -24,7 +24,7 @@ namespace DevMagicMemesWebApi.Controllers
         /// Get list data without filter.
         /// </summary>
         /// <returns></returns>
-        [HttpGet]
+        [HttpGet("GetList")]
         public Task<IEnumerable<Tag>> GetListAsync()
         {
             return _service.GetListAsync(HttpContext.RequestAborted);

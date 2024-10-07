@@ -44,7 +44,12 @@ namespace DevMagicMemesWebApi.Services
         public async virtual Task<IEnumerable<Meme>> GetListAsync(
             CancellationToken cancellationToken = default)
         {
-            var result = await _repository.GetListAsync(cancellationToken);
+            var memes = _repository.GetQueryable(false);
+
+            memes = memes
+                .Include(x => x.Tags);
+
+            var result = await memes.ToListAsync(cancellationToken);
 
             return result;
         }
@@ -73,30 +78,6 @@ namespace DevMagicMemesWebApi.Services
             var expression = withTagsIdsFilter.ToExpression(true);
 
             var result = await _repository.GetListAsync(expression, cancellationToken);
-
-            return result;
-        }
-
-        public async virtual Task<IEnumerable<Meme>> GetListWithTagsAsync(
-            Meme.GetListWithTags getListWithTags, CancellationToken cancellationToken = default)
-        {
-            var expression = getListWithTags.ToExpression(true);
-
-            var result = await _repository.GetListAsync(expression, cancellationToken);
-
-            return result;
-        }
-
-        public async virtual Task<PagedResult<Meme>> GetPageWithTagsAsync(
-            PageParameter<Meme.GetListWithTags> parameter, CancellationToken cancellationToken = default)
-        {
-            var result = new PagedResult<Meme>();
-
-            var expression = parameter.Filter.ToExpression(true);
-
-            result.Data = await _repository.GetListAsync(expression, parameter, cancellationToken);
-
-            result.Total = await _repository.CountAsync(expression, cancellationToken);
 
             return result;
         }
