@@ -10,7 +10,6 @@ namespace DevMagicMemesWebApi.Services
         {
             services.AddScoped<IMemeService, MemeService>();
             services.AddScoped<ITagService, TagService>();
-            services.AddTransient<IFileService, FileService>();
 
             return services;
         }

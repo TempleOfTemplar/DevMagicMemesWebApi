@@ -9,7 +9,7 @@ namespace DevMagicMemesWebApi.Services
         where TKey : notnull
     {
         protected readonly IUnitOfWork _unitOfWork;
-        public readonly IRepository<TEntity> _repository;
+        protected readonly IRepository<TEntity> _repository;
 
         public EntityServiceBase(IUnitOfWork unitofWork)
         {

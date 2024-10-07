@@ -40,6 +40,36 @@ namespace DevMagicMemesWebApi.Services
             return affected > 0;
         }
 
+        public async virtual Task<IEnumerable<Tag>> GetListAsync(
+            CancellationToken cancellationToken = default)
+        {
+            var result = await _repository.GetListAsync(cancellationToken);
+
+            return result;
+        }
+
+        public async virtual Task<PagedResult<Tag>> GetPageAsync(
+            PageParameter parameter, CancellationToken cancellationToken = default)
+        {
+            var result = new PagedResult<Tag>();
+
+            result.Data = await _repository.GetListAsync(parameter, cancellationToken);
+
+            result.Total = await _repository.CountAsync(cancellationToken);
+
+            return result;
+        }
+
+        public async virtual Task<IEnumerable<Tag>> SearchByTitleAsync(
+            Tag.TitleFilter titleFilter, CancellationToken cancellationToken = default)
+        {
+            var expression = titleFilter.ToExpression(true);
+
+            var result = await _repository.GetListAsync(expression, cancellationToken);
+
+            return result;
+        }
+
         public async Task<bool> AddMemesAsync(
             int tagId, int[] memeId, CancellationToken cancellationToken = default)
         {

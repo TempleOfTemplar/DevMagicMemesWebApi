@@ -14,6 +14,11 @@ namespace DevMagicMemesWebApi.Dal
                 .HasKey(x => x.Id);
 
             builder
+                .HasIndex(x => x.Image)
+                .IsUnique()
+                .HasDatabaseName("Image");
+
+            builder
                 .Property(x => x.Id)
                 .ValueGeneratedOnAdd()
                 .HasComment("Data unique identifier.");

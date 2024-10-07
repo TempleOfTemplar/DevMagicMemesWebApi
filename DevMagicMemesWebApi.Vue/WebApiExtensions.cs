@@ -5,13 +5,13 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.FileProviders;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Any;
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.Filters;
 using System;
 using System.Text.Json.Serialization;
+using Microsoft.Extensions.FileProviders;
 
 namespace Microsoft.AspNetCore.Builder
 {
@@ -65,12 +65,10 @@ namespace Microsoft.AspNetCore.Builder
             builder.Services.AddRepository();
             builder.Services.AddDevMagicMemesWebApiServices();
             builder.Services.AddModelValidator();
-            builder.Services.AddHttpClient();
 
             builder.Services.AddIdentityAuthentication(
                 jwtOptions => builder.Configuration.Bind("Authentication:JwtBearer", jwtOptions),
                 dbContextOptions => dbContextOptions.UseNpgsql(builder.Configuration.GetConnectionString("IdentityDataContext")));
-
 
             return builder;
         }
@@ -88,7 +86,7 @@ namespace Microsoft.AspNetCore.Builder
                         Path.Combine(app.Environment.ContentRootPath, "Uploads")),
                     RequestPath = "/Resources"
                 });
-
+                
                 app.UseCors(options =>
                 {
                     options.AllowAnyHeader();
