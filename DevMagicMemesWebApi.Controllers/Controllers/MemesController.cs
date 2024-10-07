@@ -62,7 +62,7 @@ namespace DevMagicMemesWebApi.Controllers
         /// </summary>
         /// <param name="withTagsNamesFilter"></param>
         /// <returns></returns>
-        [HttpGet("GetListWithTagsTitles")]
+        [HttpGet("SearchByTagsTitles")]
         public Task<IEnumerable<Meme>> SearchByTagsTitlesAsync(
             [FromQuery] Meme.WithTagsNamesFilter withTagsNamesFilter)
         {
@@ -74,13 +74,13 @@ namespace DevMagicMemesWebApi.Controllers
         /// </summary>
         /// <param name="withTagsIdsFilter"></param>
         /// <returns></returns>
-        [HttpGet]
+        [HttpGet("SearchByTagsIds")]
         public Task<IEnumerable<Meme>> SearchByTagsIdsAsync(
             [FromQuery] Meme.WithTagsIdsFilter withTagsIdsFilter)
         {
             return _service.SearchByTagsIdsAsync(withTagsIdsFilter, HttpContext.RequestAborted);
         }
-
+        
         [HttpGet("RunTagging")]
         [AllowAnonymous]
         public async Task<bool> RunTagging()

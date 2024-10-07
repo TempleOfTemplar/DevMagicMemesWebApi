@@ -15,3 +15,4 @@ C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.D
 C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\obj\Debug\net8.0\refint\DevMagicMemesWebApi.Dal.dll
 C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\obj\Debug\net8.0\DevMagicMemesWebApi.Dal.pdb
 C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\obj\Debug\net8.0\ref\DevMagicMemesWebApi.Dal.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Dal\obj\Debug\net8.0\DevMagicMemesWebApi.Dal.sourcelink.json

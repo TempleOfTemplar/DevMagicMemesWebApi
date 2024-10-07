@@ -35,7 +35,7 @@ namespace DevMagicMemesWebApi.Controllers
         /// </summary>
         /// <param name="page"></param>
         /// <returns></returns>
-        [HttpGet("GetPageByNoFilter")]
+        [HttpGet("GetPage")]
         public Task<PagedResult<Tag>> GetPageAsync([FromQuery] PageParameter page)
         {
             return _service.GetPageAsync(page, HttpContext.RequestAborted);
@@ -46,7 +46,7 @@ namespace DevMagicMemesWebApi.Controllers
         /// </summary>
         /// <param name="titleFilter"></param>
         /// <returns></returns>
-        [HttpGet("GetListByTitleFilter")]
+        [HttpGet("SearchByTitle")]
         public Task<IEnumerable<Tag>> SearchByTitleAsync([FromQuery] Tag.TitleFilter titleFilter)
         {
             return _service.SearchByTitleAsync(titleFilter, HttpContext.RequestAborted);

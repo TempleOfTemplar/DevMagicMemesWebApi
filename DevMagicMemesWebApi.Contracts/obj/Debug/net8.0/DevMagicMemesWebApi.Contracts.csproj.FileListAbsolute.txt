@@ -13,3 +13,4 @@ C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.C
 C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\obj\Debug\net8.0\refint\DevMagicMemesWebApi.Contracts.dll
 C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\obj\Debug\net8.0\DevMagicMemesWebApi.Contracts.pdb
 C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\obj\Debug\net8.0\ref\DevMagicMemesWebApi.Contracts.dll
+C:\Users\imbal\source\repos\DevMagicMemesWebApi\SourceCode\DevMagicMemesWebApi.Contracts\obj\Debug\net8.0\DevMagicMemesWebApi.Contracts.sourcelink.json

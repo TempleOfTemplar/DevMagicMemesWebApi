@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevMagicMemesWebApi.Vue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c469ef97b9faccd33ba97190f3ec43cc81d0291b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ab426b5a1723fd3a27405e4b1bca3bf736a582d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevMagicMemesWebApi.Vue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevMagicMemesWebApi.Vue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
