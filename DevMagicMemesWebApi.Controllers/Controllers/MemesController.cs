@@ -7,6 +7,7 @@ namespace DevMagicMemesWebApi.Controllers
 {
     [ApiController]
     [EntityValidation]
+    [AllowAnonymous]
     [Route("api/[controller]")]
     public class MemesController : ControllerBase
     {
