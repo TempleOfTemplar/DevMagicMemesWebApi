@@ -9,6 +9,7 @@ namespace DevMagicMemesWebApi.Contracts.Ollama
     public class ResponseKeywords
     {
         public string? imagePath { get; set; }
+        public string? imageBase64 { get; set; }
         public string[]? keywords { get; set; }
     }
 }

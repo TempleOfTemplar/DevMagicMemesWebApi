@@ -78,7 +78,7 @@ public class FileService(IWebHostEnvironment environment) : IFileService
             var responce = result.Response;
             string[] pieces = responce.Split(new string[] { "," },
                                   StringSplitOptions.TrimEntries);
-            ResponseKeywords keywords = new ResponseKeywords { imagePath = filePath, keywords = pieces};
+            ResponseKeywords keywords = new ResponseKeywords { imagePath = filePath, imageBase64 = base64ImageRepresentation, keywords = pieces};
             responseKeywords.Add(keywords);
             //ResponseKeywords keywords = JsonSerializer.Deserialize<ResponseKeywords>(responce);
             //if (keywords != null)

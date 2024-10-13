@@ -81,5 +81,19 @@ namespace DevMagicMemesWebApi.Services
 
             return result;
         }
+
+        public async virtual Task<PagedResult<Meme>> GetPageByTagsIdsFilterAsync(
+            PageParameter<Meme.WithTagsIdsFilter> parameter, CancellationToken cancellationToken = default)
+        {
+            var result = new PagedResult<Meme>();
+
+            var expression = parameter.Filter.ToExpression(true);
+
+            result.Data = await _repository.GetListAsync(expression, parameter, cancellationToken);
+
+            result.Total = await _repository.CountAsync(expression, cancellationToken);
+
+            return result;
+        }
     }
 }

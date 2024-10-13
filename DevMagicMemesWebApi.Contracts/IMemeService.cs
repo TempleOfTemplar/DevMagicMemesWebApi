@@ -36,5 +36,13 @@ namespace DevMagicMemesWebApi.Contracts
         /// <returns></returns>
         Task<IEnumerable<Meme>> SearchByTagsIdsAsync(
             Meme.WithTagsIdsFilter withTagsIdsFilter, CancellationToken cancellationToken = default);
+
+        /// <summary>
+        /// Get paged data by filter.
+        /// </summary>
+        /// <param name="parameter"></param>
+        /// <returns></returns>
+        Task<PagedResult<Meme>> GetPageByTagsIdsFilterAsync(
+            PageParameter<Meme.WithTagsIdsFilter> parameter, CancellationToken cancellationToken = default);
     }
 }
